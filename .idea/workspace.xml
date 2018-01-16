@@ -2,13 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f152fafc-b288-4729-a2c2-1ccfba0e73be" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.circleci/config.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/limit.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/limit_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/parse.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/parse_test.go" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/cov_report.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/bypass.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/bypasssafe.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/common.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/common_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/config.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/doc.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/dump.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/dump_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/dumpcgo_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/dumpnocgo_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/example_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/format.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/format_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/internal_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/internalunsafe_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/spew.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/spew_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/spew/testdata/dumpcgo.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/davecgh/go-spew/test_coverage.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/pmezard/go-difflib/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/pmezard/go-difflib/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/pmezard/go-difflib/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/pmezard/go-difflib/difflib/difflib.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/pmezard/go-difflib/difflib/difflib_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/.travis.gofmt.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/.travis.gogenerate.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/.travis.govet.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/Gopkg.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/Gopkg.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/_codegen/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/assert/assertion_format.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/assert/assertion_format.go.tmpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/assert/assertion_forward.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/assert/assertion_forward.go.tmpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/assert/assertions.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/assert/assertions_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/assert/doc.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/assert/errors.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/assert/forward_assertions.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/assert/forward_assertions_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/assert/http_assertions.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/assert/http_assertions_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/doc.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/http/doc.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/http/test_response_writer.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/http/test_round_tripper.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/mock/doc.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/mock/mock.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/mock/mock_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/package_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/require/doc.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/require/forward_requirements.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/require/forward_requirements_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/require/require.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/require/require.go.tmpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/require/require_forward.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/require/require_forward.go.tmpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/require/requirements.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/require/requirements_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/suite/doc.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/suite/interfaces.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/suite/suite.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/stretchr/testify/suite/suite_test.go" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,27 +109,27 @@
         <entry file="file://$PROJECT_DIR$/limit.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="170">
                 <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
                 <folding>
-                  <marker date="1516140759588" expanded="true" signature="253:322" ph="..." />
-                  <marker date="1516140759588" expanded="true" signature="253:324" ph="..." />
-                  <marker date="1516140759588" expanded="true" signature="256:283" ph="..." />
-                  <marker date="1516140759588" expanded="true" signature="256:298" ph="..." />
-                  <marker date="1516140759588" expanded="true" signature="256:312" ph="..." />
-                  <marker date="1516140759588" expanded="true" signature="256:322" ph="..." />
-                  <marker date="1516140759588" expanded="true" signature="338:628" ph="{...}" />
-                  <marker date="1516140759588" expanded="true" signature="494:514" ph="{...}" />
+                  <marker date="1516140783188" expanded="true" signature="253:322" ph="..." />
+                  <marker date="1516140783188" expanded="true" signature="253:324" ph="..." />
+                  <marker date="1516140783188" expanded="true" signature="256:283" ph="..." />
+                  <marker date="1516140783188" expanded="true" signature="256:298" ph="..." />
+                  <marker date="1516140783188" expanded="true" signature="256:312" ph="..." />
+                  <marker date="1516140783188" expanded="true" signature="256:322" ph="..." />
+                  <marker date="1516140783188" expanded="true" signature="338:628" ph="{...}" />
+                  <marker date="1516140783188" expanded="true" signature="494:514" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -101,11 +167,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="limit_test.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/limit_test.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="496">
-              <caret line="65" column="60" lean-forward="true" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="60" />
+              <caret line="65" column="60" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="60" />
               <folding>
                 <element signature="e#20#86#0" expanded="true" />
               </folding>
@@ -117,7 +193,7 @@
         <entry file="file://$PROJECT_DIR$/parse_test.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="49" />
+              <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -155,6 +231,7 @@
         <option value="$PROJECT_DIR$/parse.go" />
         <option value="$PROJECT_DIR$/.circleci/config.yml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -282,14 +359,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gopkg.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.circleci/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -298,18 +367,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/limit.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -317,7 +378,7 @@
     <entry file="file://$PROJECT_DIR$/limit_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
-          <caret line="65" column="60" lean-forward="true" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="60" />
+          <caret line="65" column="60" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="60" />
           <folding>
             <element signature="e#20#86#0" expanded="true" />
           </folding>
@@ -335,7 +396,7 @@
     <entry file="file://$PROJECT_DIR$/parse_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="49" />
+          <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="49" />
           <folding />
         </state>
       </provider>
@@ -346,17 +407,41 @@
           <first_editor relative-caret-position="170">
             <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             <folding>
-              <marker date="1516140759588" expanded="true" signature="253:322" ph="..." />
-              <marker date="1516140759588" expanded="true" signature="253:324" ph="..." />
-              <marker date="1516140759588" expanded="true" signature="256:283" ph="..." />
-              <marker date="1516140759588" expanded="true" signature="256:298" ph="..." />
-              <marker date="1516140759588" expanded="true" signature="256:312" ph="..." />
-              <marker date="1516140759588" expanded="true" signature="256:322" ph="..." />
-              <marker date="1516140759588" expanded="true" signature="338:628" ph="{...}" />
-              <marker date="1516140759588" expanded="true" signature="494:514" ph="{...}" />
+              <marker date="1516140783188" expanded="true" signature="253:322" ph="..." />
+              <marker date="1516140783188" expanded="true" signature="253:324" ph="..." />
+              <marker date="1516140783188" expanded="true" signature="256:283" ph="..." />
+              <marker date="1516140783188" expanded="true" signature="256:298" ph="..." />
+              <marker date="1516140783188" expanded="true" signature="256:312" ph="..." />
+              <marker date="1516140783188" expanded="true" signature="256:322" ph="..." />
+              <marker date="1516140783188" expanded="true" signature="338:628" ph="{...}" />
+              <marker date="1516140783188" expanded="true" signature="494:514" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gopkg.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
