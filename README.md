@@ -1,6 +1,7 @@
 # pagination
 
 [![CircleCI](https://circleci.com/gh/ory/pagination.svg?style=shield)](https://circleci.com/gh/ory/pagination)
+[![Join the chat at https://discord.gg/PAMQWkr](https://img.shields.io/badge/join-chat-00cc99.svg)](https://discord.gg/PAMQWkr)
 
 A simple helper for dealing with pagination.
 
